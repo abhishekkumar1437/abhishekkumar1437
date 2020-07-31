@@ -1,12 +1,11 @@
-### Hi there 👋 I am Abhishek kumar 
+### Hi there :full_moon_with_face: I am Abhishek kumar 
 
 <!--
-**abhishekkumar1437/abhishekkumar1437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am ** a :computer: software developer and Machine Learning ✨ 
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- :computer: I made a Educational Website for helping College students.
+- :space_invader: I’m currently learning Deep learning.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
