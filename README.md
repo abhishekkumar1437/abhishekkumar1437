@@ -2,7 +2,7 @@
 
  I am  a :computer: software developer and Machine Learning ✨ engineer.
  - :computer: I made a [Educational Website ](https://abhishekkumar1437.github.io/AKU-website/)for helping College students.
- - :space_invader: I’m currently learning Deep learning and Neural Network.
+ - :space_invader: I’m currently learning MERN and angular. 
  - Non-Tech time goes on watching :tv: movies and :baseball: playing games.
  -  [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-70336b196/)   [Hackerearth](https://www.hackerearth.com/@abhishek7834)
 <!-- - 🤔 I’m looking for help with ...
