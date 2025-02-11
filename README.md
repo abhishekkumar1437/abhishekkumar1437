@@ -1,6 +1,8 @@
 ### :full_moon_with_face: Hi there :full_moon_with_face: I am Abhishek kumar 
 
  I am  a :computer: software developer and Machine Learning ✨ engineer.
+ - I am working as a Python developer at Infinite Computer Solution.
+ - I worked at LTIMindtree as Software Engineer for 2+ years.
  - :computer: I made a [Educational Website ](https://abhishekkumar1437.github.io/AKU-website/)for helping College students.
  - :space_invader: I’m currently learning MERN and angular. 
  - Non-Tech time goes on watching :tv: movies and :baseball: playing games.
